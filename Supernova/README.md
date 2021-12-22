@@ -4,5 +4,8 @@
  - Supports sensorless or switch based endstops
  - Standard Stepstick format supported only
  - Uses XH or Microfit connectors to connect to steppers, such that currents of 3A+ can be supported
+ 
+## Current Release
+ - current release is Beta 0.1
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
