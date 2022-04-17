@@ -1,5 +1,7 @@
 # Constellation
-Constellation is a series of control boards, powered by the Raspberry Pi Pico board, developed by the team at ANNEX Engineering
+Constellation is a series of control boards, powered by the Raspberry Pi Pico board, developed by the team at ANNEX Engineering.
+
+It is intentional that there are no gerbers/source files available for the forseeable future. This is to prevent clones popping up that use lower quality components.
 
 ## Supernova
  - Supernova, is a 4 stepper controller. 
