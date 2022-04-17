@@ -23,7 +23,7 @@ The tables are using data which has been shamelessly copied from the fine folks 
 |-|-|-|-|
 | TMC2208 |  33V | 2A | Off for UART |
 | TMC2209 |  25V | 2.8A | Off for UART |
-| TMC2130 |  45V | 1.2A | On for SPI |
+| TMC2130 |  46V | 1.2A | On for SPI |
 | TMC5160 |  **48V** | 3A | On for SPI |
 
 #### BigTreeTech
