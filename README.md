@@ -10,4 +10,6 @@ It is intentional that there are no gerbers/source files available for the forse
  - Standard Stepstick format supported only
  - Uses XH or Microfit connectors to connect to steppers, such that currents of 3A+ can be supported
 
-Our discord server can be found here: https://discord.gg/MzTR3zE
+Our discord server can be found here: 
+
+[![Join me on Discord](https://discord.com/api/guilds/641407187004030997/widget.png?style=banner2)](https://discord.gg/MzTR3zE)
