@@ -42,6 +42,7 @@ The tables are using data which has been shamelessly copied from the fine folks 
 | Fysetc TMC2130 | TMC2130 | 42V |
 | Fysetc TMC5160| TMC5160 | 32V | 
 | Fysetc TMC5160 HV | TMC5160 | **48V** | 
+| Fysetc TMC5160 QHV | TMC5160 | **48V** | 
 | Fysetc TMC2208 | TMC2208 |  33V | 
 | Fysetc TMC2209 | TMC2209 |  25V | 
 
@@ -57,8 +58,9 @@ The tables are using data which has been shamelessly copied from the fine folks 
 | Product | Driver chip | Max safe voltage
 |-|-|-|
 | IdeaFormer TMC2130 V1.2 | TMC2130 | 42V |
-| Mellow TMC5160 HV | TMC5160 | **48V** |
-| Mellow TMC2209 | TMC2209 | 25V |
+| Mellow Fly TMC2209 | TMC2209 | 25V |
+| Mellow Fly TMC5160 HV | TMC5160 | 42V |
+| Mellow Fly TMC5160 HV Pro | TMC5160 | 42V |
 
 ## Sensorless Homing
 To enable sensorless homing for e.g. Stepper 1 switch the Dipswitch labeled 'Homing' to **On* where '1' is written on the PCB  
