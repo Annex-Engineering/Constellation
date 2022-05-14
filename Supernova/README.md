@@ -77,6 +77,11 @@ The board measures 90x75mm. The mounting holes are spaced apart 82/67mm.
 ![Supernova Pinout](Gallery/supernova_pinout_R1.png)
 
 ## Flashing Klipper to the Raspberry Pico
+
+
+> :warning: **If you are using a Raspberry Pi model 4 for Klipper**: Get a good quality USB hub to connect the constellation hardware. The Pi model 4 has a mediocre USB chip that can cause issues in this setup.
+
+
 To compile the micro-controller code, start by running these commands
 on the Raspberry Pi:
 
