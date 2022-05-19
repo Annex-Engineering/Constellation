@@ -7,7 +7,8 @@
 ![Image of Sensorless Cluster](sensorless.png?raw=true)
  
 ## SPI Jumpers
- - solder the jumpers marked below (in purple squares)
+ - flip the Dip-Switch to 'On' to use SPI (starting with driver 4 from the left going to number 1 at the right)
+ - flip to 'Off' to use UART
  
 ![Image of SPI Jumpers](spi.png?raw=true)
 
