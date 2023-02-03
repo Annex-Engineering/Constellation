@@ -102,7 +102,7 @@ Enabling a green LED when powered on can also be done afterwards in the printer.
 
 ```
 [output_pin power_LED]
-pin: GPIO25
+pin: gpio25
 value: 1
 ```
 
