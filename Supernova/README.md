@@ -10,7 +10,7 @@ Under no circumstances we can be held responsible for harm or injury to any pers
 
 ## Motor Wiring & Current Limitations
 
-Supernova is rated to handle a total of 10A current combined and up to 48v for all motors. However, most setups will not reach this limit.  
+Supernova is rated to handle a total of 8.5 A current combined and up to 48v for all motors. However, most setups will not reach this limit.  
 The limit for each individual motor is dependent on the motor itself and the stepper driver used.
 When utilizing over 2A on a stepper it's highly recommended to use Microfit instead of JST XH for the stepper wiring.
 
