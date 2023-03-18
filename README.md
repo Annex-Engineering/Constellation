@@ -10,7 +10,7 @@ It is intentional that there are no gerbers/source files available for the forse
  - Standard Stepstick format supported only
  - Uses XH or Microfit connectors to connect to steppers, such that currents of 3A+ can be supported
 
- ![picture](Constellation/Gallery/Supernova_pico.png)
+ ![picture](Supernova/Gallery/Supernova_pico.png)
 
  ## Sirius
  TBD
