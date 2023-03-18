@@ -1,6 +1,6 @@
-# Supernova R1 - FAQ
+# Supernova R1.0.2 - FAQ
 
-![picture](Gallery/Overview.JPG)
+![picture](Gallery/Supernova_pico.png)
 Assembled Constellation Supernova R1 with socketed Raspberry Pico.
 
 ## Warning
@@ -71,6 +71,8 @@ Please note, that in the klipper-config most step sticks require diag0 to be set
 - BigTreeTech TMC5160 Pro
   
 ## Dimensions
+![picture](Gallery/Supernova_dimensions.png)
+
 The board measures 90x75mm. The mounting holes are spaced apart 82/67mm. 
 
 ## Pinout
@@ -107,13 +109,13 @@ value: 1
 ```
 
 ## Gallery
-![picture](Gallery/Rotated.JPG)
-![picture](Gallery/Sideview.JPG)
-![picture](Gallery/DIP-switches.JPG)
+![picture](Gallery/Supernova_DIP.png)
+![picture](Gallery/Supernova_bare.png)
+![picture](Gallery/Supernova_top.png)
 
 
 ## Sourcing
-Links to purchase kits can be found here: [ANNEX Sourcing Guide](https://docs.google.com/spreadsheets/d/1aSM1jGxg-s0tyynyR3f8M0IQMXuXw57RJvoJbt98Clw/edit?usp=sharing)
+Links to purchase fully assembled boards can be found here: [ANNEX Sourcing Guide](https://docs.google.com/spreadsheets/d/1aSM1jGxg-s0tyynyR3f8M0IQMXuXw57RJvoJbt98Clw/edit?usp=sharing)
 
 Our discord server can be found here: 
 
