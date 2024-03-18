@@ -8,6 +8,10 @@ Using 48V electronics can cause serious harm on injury, only attempt to install 
 
 Under no circumstances we can be held responsible for harm or injury to any person or piece of equipment and you waiver all rights to hold us responsible for anything that happens as a result of using this design, or even thinking about the design.
 
+## Klipper Configurations
+
+![Configurations can be found here](https://github.com/Annex-Engineering/ANNEX-Printer-Firmware/tree/main/Klipper_and_Klipper_Derivatives/Constellation)
+
 ## Motor Wiring & Current Limitations
 
 Supernova is rated to handle a total of 8.5 A current combined and up to 48v for all motors. However, most setups will not reach this limit.  
