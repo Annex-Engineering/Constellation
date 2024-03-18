@@ -5,7 +5,7 @@ It is intentional that there are no gerbers/schematics/source files available fo
 
 ## Klipper Configurations
 
-[![Configurations can be found here](https://github.com/Annex-Engineering/ANNEX-Printer-Firmware/tree/main/Klipper_and_Klipper_Derivatives/Constellation)
+![Configurations can be found here](https://github.com/Annex-Engineering/ANNEX-Printer-Firmware/tree/main/Klipper_and_Klipper_Derivatives/Constellation)
 
 ## Supernova
  - Supernova, is a 4 stepper controller. 
