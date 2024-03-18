@@ -3,6 +3,10 @@ Constellation is a series of control boards, powered by the Raspberry Pi Pico bo
 
 It is intentional that there are no gerbers/schematics/source files available for the forseeable future. This is to prevent clones popping up that use lower quality components.
 
+## Klipper Configurations
+
+[![Configurations can be found here](https://github.com/Annex-Engineering/ANNEX-Printer-Firmware/tree/main/Klipper_and_Klipper_Derivatives/Constellation)
+
 ## Supernova
  - Supernova, is a 4 stepper controller. 
  - Can drive steppers at 12v to 48v
